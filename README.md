@@ -32,6 +32,6 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥1day commit </h2> <div style="text-align: left;">  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaiginmoo&theme=tokyonight)](https://git.io/streak-stats) </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥1day commit </h2>   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaiginmoo&theme=tokyonight)](https://git.io/streak-stats)
     </div>
     
