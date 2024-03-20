@@ -1,5 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fff700,100:ffd500&height=120&text=Turning%20Ideas%20into%20Reality%20through%20Code&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <h2>Turning Ideas into Reality through Code</h2>
+<!--     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fff700,100:ffd500&height=120&text=Turning%20Ideas%20into%20Reality%20through%20Code&animation=fadeIn&fontColor=000000&fontSize=40" /> -->
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 자기소개 </h2>  
