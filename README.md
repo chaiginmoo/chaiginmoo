@@ -45,5 +45,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaiginmoo&theme=ambient_gradient)
 
-    
+## 코리아IT 아카데미 이수 교육 내역서
+
+### 이수 과정명
+* (핀테크) Spring 및 Ai 기반 핀테크 프로젝트 구축
+
+### 교육 기간
+* 2023-09-07 ~ 2024. 03. 21 (6개월, 총 121일 / 963시간)
+
+### 교육 내용
+
+- 웹서버 프로그램(자바-Spring Security)과 빅데이터, 인공지능(Ai)을 기반으로 핀테크(fintech) 솔루션 구축
+-  DBMS, 자바 기초 프로그래밍과 웹표준인 HTML, CSS, Javascrip를 학습해 웹서버 페이지를 제작하고, JSP, Spring을 통해 웹서버 프로젝트를 개발하여, 핀테크 기술이 접목될 수 있는 환경을 구성
+-  Spring-Security 와 전자문서 인증, 생체인식 등의 기반 기술을 활용하기 위해, 파이썬 기반 빅데이터, 인공지능 관련 학습을 진행함으로써, 최종 핀테크 솔루션 구축 프로젝트
     
