@@ -32,6 +32,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
+        ### **🔥1day commit🔥**
+
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaiginmoo&theme=tokyonight)](https://git.io/streak-stats)
+
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=chaiginmoo&bg_color=180,000000,&title_color=000000&text_color=000000"
          />  </div> 
     </div>
