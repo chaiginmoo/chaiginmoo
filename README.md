@@ -42,11 +42,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaiginmoo&theme=ambient_gradient)](https://git.io/streak-stats)
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaiginmoo&theme=ambient_gradient)
 
 ## 코리아IT 아카데미 이수 교육 내역서
 
