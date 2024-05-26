@@ -1,6 +1,6 @@
 <h1></h1>
-<h1 align="center" >Turning Ideas into Reality through Code</h1>
-<br>
+<!-- <h1 align="center" >Turning Ideas into Reality through Code</h1> -->
+<!-- <br> -->
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌  자기소개 </h2>  
     <div style="font-weight: 700; font-size: 20px; text-align: left; color: #282d33;"> 안녕하세요! 저는 최진무입니다. 신입 개발자로서 프로그래밍에 열정을 가지고 있으며, 지속적으로 성장하고 발전하기 위해 노력하고 있습니다.가톨릭대 영어영문학과 졸업후 현재 방통대 컴퓨터 과학을 전공 중이며 코리아IT 아카데미에서 다양한 프로젝트와 실습을 경험했습니다. 이를 통해 개발의 기초를 탄탄히 다졌으며, 문제 해결 능력을 향상시키는 데 중점을 두었습니다.주로 서버사이드 렌더링(SSR): Springboot(MVC) + Mybatis, 클라이언트 사이드 렌더링(CSR): Springboot + JPA + React를 사용하여 웹 개발을 하고 있습니다. 또한 최근에는 머신러닝과 데이터 과학 분야에도 관심을 가지고 공부 중입니다. 꾸준히 성장하고 다양한 프로젝트에 참여하며 새로운 기술을 배우고 싶습니다. 언제든지 연락 주시기 바랍니다! </li> 감사합니다. </div> 
@@ -32,7 +32,7 @@
  📱 : +82) 010-4655-4137
     <div style="text-align: left;"> <a href=mailto:chaiginmoo@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaiginmoo@gmail.com"> </a>
 <!--         <a href=https://gooddata1.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://gooddata1.tistory.com/"> </a> -->
-         <a href= https://blog.naver.com/cro2233> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/cro2233"> </a>
+<!--          <a href= https://blog.naver.com/cro2233> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/cro2233"> </a> -->
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
